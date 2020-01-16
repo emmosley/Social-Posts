@@ -11,7 +11,3 @@ if (environment.production) {
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
 
-  interface Post {
-    title: string;
-    thought:string;
-  }
