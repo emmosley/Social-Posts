@@ -1,3 +1,15 @@
+.postList {
+    border-bottom: 1px solid #F3F1F7;
+    width: 66%;
+    text-align: center;
+    margin: auto;
+}
 li {
     color: black;
+    list-style: none;
+    text-align: center;
+    margin: auto;
+}
+.title {
+    font-size: 24px;
 }

@@ -1,6 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
 header {
     text-align: center;
-    font-family: 'Homemade Apple', cursive;
+   font-family: 'Dosis', sans-serif;
     color: rgb(3, 169, 244);
+}
+
+html {
+    background-color: #F3F1F7;
 }
